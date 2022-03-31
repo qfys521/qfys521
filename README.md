@@ -13,6 +13,10 @@
 1. 学习JAVA
 1. 写[小明机器人插件](https://github.com/qfys521/faweHelper)
 
-![qfys521's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=qfys521&layout=compact&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qfys521&theme=vue)
 
-![qfys521's github stats](https://github-readme-stats.vercel.app/api?username=qfys521&show_icons=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qfys521&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qfys521&theme=vue)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qfys521&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qfys521&theme=vue)
