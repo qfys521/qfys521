@@ -13,10 +13,11 @@
 1. 学习JAVA
 1. 写[小明机器人插件](https://github.com/qfys521/faweHelper)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qfys521&theme=vue)
+![qfys521](https://count.getloli.com/get/@qfys521)
+![qfy521](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qfys521&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qfys521&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qfys521&theme=vue)
+![qfys521](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=qfys521&theme=vue)
+![qfys521](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=qfys521&theme=vue)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qfys521&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qfys521&theme=vue)
+![qfys521](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=qfys521&theme=vue)
+![qfys521](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qfys521&theme=vue)
